@@ -5,3 +5,7 @@ git commit -m "değişiklik açıklaması" -----
 git push -----
 
 onun yerine tek tıkla visual studio dan olmuyor mu?
+
+ewqewq
+
+fdsfds
